@@ -33,3 +33,12 @@ Circular linked list: A (corrupt) linked list in which a node’s next pointer p
 ######Input: A -> B -> C -> D -> E -> C [the same C as earlier]
 ######Output: C
 
+### Problem 6
+Given a linked list, write a function to reverse it.
+
+#####Example
+#####Input: A -> B -> C -> D
+#####Output: D -> C -> B -> A
+
+### Problem 7
+Detect and remove loop in a linked list.
